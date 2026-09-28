@@ -54,7 +54,7 @@ lawfirm_erp/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
-
+```
 ## My Contribution
 
 During my internship, I worked on:
