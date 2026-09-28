@@ -111,8 +111,6 @@ DB_HOST=localhost
 DB_PORT=5432
 ```
 
-Do not upload the `.env` file to GitHub.
-
 ### Apply Migrations
 
 ```bash
